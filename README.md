@@ -34,19 +34,7 @@ fernando.presentacion()
 
 ## Conocimientos
 
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- jQuery
-- Git
-- Oracle SQL
-- Python
-- Django
-- PostgreSQL
-- GitHub
-- Java
-- Eclipse
+ HTML - CSS - Bootstrap - JavaScript - jQuery - Git - Oracle SQL - Python - Django - PostgreSQL - GitHub - Java - Eclipse
 
 ## Contacto
 
