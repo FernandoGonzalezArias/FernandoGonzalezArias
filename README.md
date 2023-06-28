@@ -1,4 +1,4 @@
-# Fernando Gonzalez Arias - Desarrollador Full Stack
+# Fernando González Arias - Desarrollador Full Stack
 
 ¡Hola! Soy Fernando, un desarrollador Full Stack con experiencia en diversos lenguajes y tecnologías. Me apasiona crear soluciones eficientes y funcionales, y estoy constantemente buscando aprender nuevas herramientas y mejorar mis habilidades. Como desarrollador Full Stack, tengo habilidades tanto en el desarrollo del lado del cliente como en el lado del servidor. Soy capaz de crear interfaces de usuario atractivas y responsivas utilizando HTML, CSS y JavaScript, y también tengo experiencia en el desarrollo de aplicaciones y servicios web utilizando Django y Python.
 
