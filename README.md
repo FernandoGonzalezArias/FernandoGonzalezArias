@@ -1,48 +1,57 @@
-# Fernando González Arias - Desarrollador Full Stack
+# ¡Hola! 👋 Bienvenido a mi perfil
 
-¡Hola! Soy Fernando, un desarrollador Full Stack con experiencia en diversos lenguajes y tecnologías. Me apasiona crear soluciones eficientes y funcionales, y estoy constantemente buscando aprender nuevas herramientas y mejorar mis habilidades. Como desarrollador Full Stack, tengo habilidades tanto en el desarrollo del lado del cliente como en el lado del servidor. Soy capaz de crear interfaces de usuario atractivas y responsivas utilizando HTML, CSS y JavaScript, y también tengo experiencia en el desarrollo de aplicaciones y servicios web utilizando Django y Python.
+Soy un desarrollador con experiencia en diversas tecnologías. Aquí encontrarás información sobre mis habilidades y cómo contactarme.
 
-```python
-class DesarrolladorFullStack:
-    def __init__(self, nombre, ubicacion, conocimientos, email):
-        self.nombre = nombre
-        self.ubicacion = ubicacion
-        self.conocimientos = conocimientos
-        self.email = email
+## Tecnologías
 
-    def presentacion(self):
-        print(f"¡Hola! Soy {self.nombre}, un desarrollador Full Stack de {self.ubicacion}.")
-        print("Tengo conocimientos en los siguientes lenguajes y tecnologías:")
-        for conocimiento in self.conocimientos:
-            print(f"- {conocimiento}")
-        print("¡No dudes en contactarme por correo electrónico para colaboraciones o proyectos interesantes!")
-        print(f"Correo electrónico: {self.email}")
+### Frontend
 
-# Creación de instancia y presentación
-fernando = DesarrolladorFullStack(
-    nombre="Fernando Gonzalez Arias",
-    ubicacion="Santiago de Chile",
-    conocimientos=[
-        "HTML", "CSS", "Bootstrap", "JavaScript", "jQuery",
-        "Git", "Oracle SQL", "Python", "Django", "PostgreSQL",
-        "GitHub", "Java", "Eclipse"
-    ],
-    email="efernando.94@gmail.com"
-)
-fernando.presentacion()
-```
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+</p>
 
-## Conocimientos
+### Backend
 
- HTML - CSS - Bootstrap - JavaScript - jQuery - Git - Oracle SQL - Python - Django - PostgreSQL - GitHub - Java - Eclipse
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+
+</p>
+
+### Base de datos
+<p>
+  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+### Herramientas
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
+  
+ 
+</p>
 
 ## Contacto
 
-- Correo electrónico: efernando.94@gmail.com
-- Ubicación: Santiago de Chile
+<p>
+  <a href="mailto:efernando.94@gmail.com"><img src="https://img.shields.io/badge/Correo-efernando.94@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a>
+</p>
 
-¡Gracias por visitar mi perfil! Estoy emocionado de colaborar en proyectos interesantes y aplicar mis conocimientos para crear soluciones de calidad. No dudes en contactarme si tienes alguna pregunta o propuesta. ¡Espero tener noticias tuyas pronto!
+**Ubicación**: Santiago de Chile
 
-<!-- Agrega iconos aquí según tus preferencias para hacerlo más interactivo y llamativo -->
-
+---
 
